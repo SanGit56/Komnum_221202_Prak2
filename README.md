@@ -1,2 +1,1 @@
-# Komnum_221202_Prak2
-Praktikum 2 mata kuliah Komputasi Numerik
+Visualisasi grafik pengaplikasian Teorema Romberg yang dibuat menggunakan bahasa Python
